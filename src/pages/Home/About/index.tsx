@@ -10,7 +10,7 @@ import {
   Name,
   SubTitle,
 } from './styles';
-import selfie from '../../../assets/images/utils/selfie.png';
+import selfie from '../../../assets/images/utils/selfie.svg';
 
 const About: React.FC = () => {
   return (
